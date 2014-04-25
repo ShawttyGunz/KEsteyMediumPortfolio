@@ -5793,3 +5793,7 @@ background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */
 background: linear-gradient(red, blue); /* Standard syntax */
 }
 
+body
+{
+background-image:url('//images/Dark_Clouds2.png');
+}
